@@ -1,4 +1,3 @@
-import timeit
 import itertools
 
 class Waveform():
